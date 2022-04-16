@@ -1,0 +1,44 @@
+[
+    {
+      "province": "Provinsi Sumatera Selatan",
+      "title": "Rumah Limas",
+      "description": "Rumah adat limas memiliki bentuk yang sesuai dengan namanya, yaitu menyerupai limas. Tamu yang berkunjung ke rumah ini harus singgah ke ruang atas atau teras rumah. Hal ini merupakan tradisi masyarakat Sumatera Selatan agar dapat merasakan budaya mereka, yang tampak pada ukiran di dalamnya.",
+      "image": "assets/gambar1.jpg"
+    },
+    {
+      "province": "Provinsi Sumaera Utara",
+      "title": "Rumah Bolon",
+      "description": "Pada rumah adat Bolon ini, terdapat dua bagian yang berbeda, yaitu Jabu Bolon dan juga Jabu Parsakitan. Jabu Bolon biasa menjadi tempat untuk keluarga besar, sedangkan Jabu Parsakitan adalah tempat untuk membicarakan masalah adat. Keunikan dari rumah adat Sumatera Utara ini adalah tidak ada sekatan antara setiap ruangan. Jadinya, semua anggota keluarga tidur bersama di dalam ruangan besar.",
+      "image": "assets/gambar2.jpg"
+    },
+    {
+      "province": "Provinsi Sumatera Barat",
+      "title": "Rumah Gadang",
+      "description": "Rumah adat gadang yang merupakan rumah adat dari sumatera barat ini terbuat dari ijuk dan bentuknya mirip seperti tanduk kerbau, yang melambangkan kemenangan suku Minang dalam perlombaan adu kerbau di Jawa.",
+      "image": "assets/gambar3.jpg"
+    },
+    {
+      "province": "Provinsi Bengkulu",
+      "title": "Bubungan Lima",
+      "description": "Rumah adat dari Bengkulu memiliki tiang penopang dan menggunakan kayu khusus untuk membuatnya, yaitu kayu Medang Kemuning. Ciri dari rumah adat ini adalah terdapat tangga yang berada di bagian depan rumah yang berfungsi ketika ingin memasuki rumah. Rumah adat ini hanya digunakan untuk acara adat saja.",
+      "image": "assets/gambar4.jpg"
+    },
+    {
+      "province": "Provinsi Jawa Barat",
+      "title": " Rumah Kasepuhan",
+      "description": "Rumat adat kasepuhan merupakan peninggalan dari Kerajaan Islam di wilayah jawa barat. Rumah yang sering disebut Keraton Kasepuhan ini sebenarnya merupakan perluasan dari Keraton Pakungwati. Tidak heran bila pintu utama keraton terlihat unik dan menawan.",
+      "image": "assets/gambar5.jpg"
+    },
+    {
+      "province": "Provinsi Jawa Tengah",
+      "title": "Bubungan Joglo Jawa Tengah",
+      "description": "Rumah adat joglo merupakan rumah adat dari jawa tengah. Ciri bangunan dari rumah ini adalah memiliki empat tiang penopang. Selain itu, terdapat sentuhan kejawen dari suku Jawa di sisi-sisi rumah dan pada bagian depan rumah terdapat pendopo yang digunakan untuk menjamu tamu.",
+      "image": "assets/gambar6.jpg"
+    },
+    {
+      "province": "Provinsi Jawa Timur",
+      "title": "Rumah Joglo Jawa Timur",
+      "description": "Sama dengan di jawa tengah, Rumah adat joglo juga merupakan rumah adat dari jawa timur. Ciri bangunan dari rumah ini adalah memiliki empat tiang penopong. Selain itu, terdapat sentuhan kejawen dari suku Jawa di sisi-sisi rumah dan pada bagian depan rumah terdapat pendopo yang digunakan untuk menjamu tamu.",
+      "image": "assets/gambar7.jpg"
+    }
+  ]
